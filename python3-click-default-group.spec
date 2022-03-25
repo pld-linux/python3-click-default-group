@@ -3,7 +3,7 @@ Summary:	Extends click.Group to invoke a command without explicit subcommand nam
 Summary(pl.UTF-8):	Rozszerzenie click.Group o wywoływanie poleceń bez jawnej nazwy podpolecenia
 Name:		python3-%{module}
 Version:	1.2.2
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/c/click-default-group/%{module}-%{version}.tar.gz
